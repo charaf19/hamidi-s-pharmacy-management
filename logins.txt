@@ -1,7 +1,3 @@
-http://127.0.0.1:8000/
-    python manage.py runserver
------------------------------------------------------------------------------------
-
 ### Admin User Login: 
 - Username: admin
 - password: 1234  
@@ -58,4 +54,3 @@ http://127.0.0.1:8000/
         Doctor Main Featues
      - Manage Patient's Prescription
      - Manage Personal Account
-   
